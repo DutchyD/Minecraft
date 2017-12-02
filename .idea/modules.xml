@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EssentialsModule/EssentialsModule.iml" filepath="$PROJECT_DIR$/EssentialsModule/EssentialsModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainPlugin/MainPlugin.iml" filepath="$PROJECT_DIR$/MainPlugin/MainPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minecraft.iml" filepath="$PROJECT_DIR$/.idea/modules/Minecraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minecraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minecraft_main.iml" group="Minecraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minecraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minecraft_test.iml" group="Minecraft" />
+    </modules>
+  </component>
+</project>
